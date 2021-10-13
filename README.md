@@ -1,5 +1,8 @@
 # CC-MTPTPM
 
+越南开源php手机贩售平台，学习借鉴
+
+
 ## 账号密码
 admin@gmail.com / admin
 
