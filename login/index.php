@@ -82,7 +82,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <script src="/doanchuyennganh/public/admin/vendor/jquery/jquery.min.js"></script>
   <script src="/doanchuyennganh/public/admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="/doanchuyennganh/public/admin/vendor/jquery-easing/jquery.easing.min.js"></script>
-  <script src="/doanchuyennganh/public/admin/vendor/jquery/login.js"></script>
+  <script src="/doanchuyennganh/public/admin/js/login.js"></script>
 
 </body>
 
